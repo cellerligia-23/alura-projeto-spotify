@@ -6,6 +6,7 @@ body,  html {
 body {
   background-color: #2d2d39;
   color: #fff;
+  font-family: var(--font-dm-sans)
 }
 button {
   cursor: pointer;
@@ -48,7 +49,6 @@ button {
   text-decoration: none;
   font-weight: 600;
   font-size: 14px;
-  font-family: "DM Sans", sans-serif;
 }
 
 .library {
@@ -77,7 +77,6 @@ button {
   border: 0px;
   font-size: 1rem;
   font-weight: 700;
-  font-family: "DM Sans", sans-serif;
   padding: 20px 10px;
 }
 
@@ -112,7 +111,6 @@ button {
 }
 
 .section-playlist__content .text {
-  font-family: "DM Sans", sans-serif;
   padding-bottom: 14px;
   color: #fff
 }
@@ -134,7 +132,6 @@ button {
   border-radius: 20px;
   font-size: 12px;
   font-weight: 700;
-  font-family: "DM Sans", sans-serif;
   padding: 10px;
   border: 0px;
   width: 113px;
@@ -186,8 +183,11 @@ footer {
 
 .footer-title {
   font-weight: 700;
-  font-family: "DM Sans", sans-serif;
   margin-bottom: 4px;
+}
+
+.footer-subtitle {
+  font-size: 12px;
 }
 
 .footer__button {
@@ -199,7 +199,6 @@ footer {
   border-radius: 20px;
   font-size: 14px;
   font-weight: 700;
-  font-family: "DM Sans", sans-serif;
   padding: 5px;
   border: 0px;
   width: 180px;
