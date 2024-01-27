@@ -1,12 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  list-style: none;
-  text-decoration: none;
-  text-transform: none;
-}
-
 body,  html {
   height: 100%;
   width: 100%;
@@ -15,6 +6,9 @@ body,  html {
 body {
   background-color: #2d2d39;
   color: #fff;
+}
+button {
+  cursor: pointer;
 }
 
 .sidebar {
@@ -165,10 +159,54 @@ body {
   background-color: transparent;
   border:  1px solid #878787;
   color: #fff;
-  cursor: pointer;
   font-weight: 700;
   width: 170px;
   margin: 8px;
   padding: 8px;
   border-radius: 20px;
 }
+
+footer {
+  background: linear-gradient(90deg, rgba(184,29,230,0.9220063025210083) 0%, 
+    rgba(8,158,189,0.9500175070028011) 100%);
+  display: flex;
+  justify-content: space-around;
+  position:fixed;
+  bottom:  0;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.footer__content {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-title {
+  font-weight: 700;
+  font-family: "DM Sans", sans-serif;
+  margin-bottom: 4px;
+}
+
+.footer__button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  color: #000;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: "DM Sans", sans-serif;
+  padding: 5px;
+  border: 0px;
+  width: 180px;
+}
+
+.footer__button:hover {
+  opacity: 0.7;
+}
+
+
