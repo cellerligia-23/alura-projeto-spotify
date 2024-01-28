@@ -138,6 +138,10 @@ button {
   margin-top: 12px;
 }
 
+.section-playlist__button:hover {
+  opacity: 0.7;
+}
+
 .sidebar .cookies {
   margin: 25px 20px;
 }
