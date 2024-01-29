@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+:root {
+  /* FONTE */
+  --font-dm-sans: "DM Sans", sans-serif;
+
+  /* COLOR */
+  --bg-icon: #121212;
+  --bg-arrow-color: rgba(0, 0, 07);
+}
+
+body,  html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #2d2d39;
+  color: #fff;
+  font-family: var(--font-dm-sans)
+}
+button {
+  cursor: pointer;
+}

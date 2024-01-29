@@ -4,3 +4,6 @@ Aqui você vai encontrar a minha jornada com as aulas de imersão do curso **<a 
 Esse repositório será atualizado ao longo do tempo, então pode ter projetos finalizados e outros não. :grimacing: :
 
 ## PROJETO SPOTIFY
+
+Nesse projeto irei  desenvolver um clone da página inicial do Spotify, utilizando HTML5 e CSS3 para a estrutura e layout, além de JavaScript para interação com os elementos. O
+Projeto desenvolvido durante o curso o projeto de Imersão de 5 aulas da Alura.
