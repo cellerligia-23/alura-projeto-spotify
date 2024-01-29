@@ -1,0 +1,154 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Michael Jackson",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+    },
+    {
+      "id": 2,
+      "name": "Queen",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42"
+    },
+    {
+      "id": 3,
+      "name": "Beyoncé",
+      "genre": "R&B",
+      "urlImg": "https://i.scdn.co/image/ab67616d00001e020e58a0f8308c1ad403d105e7"
+    },
+    {
+      "id": 4,
+      "name": "Eminem",
+      "genre": "Hip-Hop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b"
+    },
+    {
+      "id": 5,
+      "name": "Adele",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17"
+    },
+    {
+      "id": 6,
+      "name": "Bob Marley",
+      "genre": "Reggae",
+      "urlImg": "https://i.scdn.co/image/ab67616d00001e02bb449734a8ba1d892829a3f8"
+    },
+    {
+      "id": 7,
+      "name": "Madonna",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab67706c0000da84a4ab9cd460e19895fde7e94a"
+    },
+    {
+      "id": 8,
+      "name": "Elvis Presley",
+      "genre": "Rock and Roll",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c"
+    },
+    {
+      "id": 9,
+      "name": "Jay-Z",
+      "genre": "Hip-Hop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4"
+    },
+    {
+      "id": 10,
+      "name": "Taylor Swift",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174859e4c14fa59296c8649e0e4"
+    },
+    {
+      "id": 11,
+      "name": "Emicida",
+      "genre": "Hip Hop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068"
+    },
+    {
+      "id": 12,
+      "name": "Chitãozinho e Xororó",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4"
+    },
+    {
+      "id": 13,
+      "name": "Mc Coringa",
+      "genre": "Funk",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174cb78a6dbdf00ffe26c4d2905"
+    },
+    {
+      "id": 14,
+      "name": "Arlindo Cruz",
+      "genre": "Samba",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839"
+    },
+    {
+      "id": 15,
+      "name": "Caetano Veloso",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"
+    },
+    {  
+    "id": 16,
+      "name": "Gilberto Gil",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebea64e6a7a0ac576a8ecf8416"
+    },
+    {
+      "id": 17,
+      "name": "Marisa Monte",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab67616d0000b2735b7cd42c778cf9be6b2790e8"
+    },
+    {
+      "id": 18,
+      "name": "Anitta",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174adfb6f56b9dbbab47b4efd06"
+    },
+    {
+      "id": 19,
+      "name": "Seu Jorge",
+      "genre": "MPB",
+      "urlImg": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO06mUXC-default.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Ivete Sangalo",
+      "genre": "Axé",
+      "urlImg": "https://i.scdn.co/image/ab676161000051749c8910d52e3a992e2d49268f"
+    },
+    {
+      "id": 21,
+      "name": "Legião Urbana",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab67616d0000b273cedb75dbb5a687ad0f09125d"
+    },
+    {
+      "id": 22,
+      "name": "Tom Jobim",
+      "genre": "Bossa Nova",
+      "urlImg": "https://i.scdn.co/image/ab67706c0000da845573d4d5d9c420ed69a03bcb"
+    },
+    {
+      "id": 23,
+      "name": "Chico Buarque",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab676161000051741f33f0eccfef05940a1ef879"
+    },
+    {
+      "id": 24,
+      "name": "Zeca Pagodinho",
+      "genre": "Samba",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174ba8ad8a2315ed9148c7b1cc7"
+    },
+    {
+      "id": 25,
+      "name": "Ludmilla",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab67616d0000b27386f0f8fcbd85f4546c26c6fa"
+    }
+  ]
+}
