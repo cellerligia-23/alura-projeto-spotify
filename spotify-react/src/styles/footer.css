@@ -1,0 +1,44 @@
+footer {
+  background: linear-gradient(90deg, rgba(184,29,230,0.9220063025210083) 0%, 
+    rgba(8,158,189,0.9500175070028011) 100%);
+  display: flex;
+  justify-content: space-around;
+  position:fixed;
+  bottom:  0;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.footer__content {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-title {
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.footer-subtitle {
+  font-size: 12px;
+}
+
+.footer__button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  color: #000;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 5px;
+  border: 0px;
+  width: 180px;
+}
+
+.footer__button:hover {
+  opacity: 0.7;
+}

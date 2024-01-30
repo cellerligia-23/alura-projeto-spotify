@@ -7,22 +7,22 @@ import search from "../../assets/img/icon/search.png"
 
 const Header = () => {
   return (
-    <nav class="hearder__navigation">
-      <div class="navigation">
-        <button class="arrow-left">
+    <nav className="hearder__navigation">
+      <div className="navigation">
+        <button className="arrow-left">
           <img src={smallLeft} alt="Seta esquerda" />
         </button>
-        <button class="arrow-right">
+        <button className="arrow-right">
           <img src={ smallRight } alt="Seta direita" />
         </button>
       </div>
-      <div class="header__search">
+      <div className="header__search">
         <img src={ search } alt="" />
-        <input id="search-input" type="text" placeholder="O que você quer ouvir?" maxlength="800"/>
+        <input id="search-input" type="text" placeholder="O que você quer ouvir?" maxLength="800"/>
       </div>
-      <div class="header__login">
-        <button class="subscribe">Inscreva-se</button>
-        <button class="login">Entrar</button>
+      <div className="header__login">
+        <button className="subscribe">Inscreva-se</button>
+        <button className="login">Entrar</button>
       </div>
   </nav>
   );
