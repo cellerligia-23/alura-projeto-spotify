@@ -9,7 +9,7 @@ Esse repositório será atualizado ao longo do tempo, então pode ter projetos f
     alt="logo javascript" width="40"
   />
    <img 
-    src="./img/html-logo.png"
+    src="./img/css-logo.png"
     alt="logo javascript" width="40"
   />
   <img 
